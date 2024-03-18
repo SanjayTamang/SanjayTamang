@@ -1,4 +1,4 @@
-![logo](https://github.com/SanjayTamang/SanjayTamang/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png)
+![logo](https://github.com/SanjayTamang/SanjayTamang/blob/main/Banner.png)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
