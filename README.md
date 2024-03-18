@@ -3,6 +3,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!!!+👋;+I'm+Sanjay+Tamang!!!;+I'm+Developer!!!;+I'm+Designer!!!;" />
 </h1>
+
 <h3 align="center">MscIT Computer Network and Cyber Sec alumni along with BscIT in Computing.</h3>
 
 <img align="right" alt="coding" width="300" src="https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966"/>
@@ -34,3 +35,7 @@
   
   <br/><br/><br/>
 </div>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=ThankYou+For+Visiting!!!;" />
+</h1>
