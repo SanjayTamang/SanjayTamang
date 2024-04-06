@@ -45,14 +45,6 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaytamang&" alt="sanjaytamang" /></p>
 
 <div align="center">
-  <h2>🗂️ My Contributions 🗂️</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SanjayTamang/SanjayTamang/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<div align="center">
   <h2>:📝 My Projects 📝</h2>
   <br>
   <h3>📋 Project: 1 </h3>
@@ -73,6 +65,14 @@
     <h3>📋 Project: 5 </h3>
     Live Demo: https://flappy-bird-game-blush.vercel.app
   <img alt="project1" src="https://github.com/SanjayTamang/FlappyBird-Game/assets/52417143/7a8eeb69-a5e7-4d9d-a761-0c858a40864e" />
+  <br/><br/><br/>
+</div>
+
+<div align="center">
+  <h2>🗂️ My Contributions 🗂️</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SanjayTamang/SanjayTamang/output/github-contribution-grid-snake.svg" />
+  
   <br/><br/><br/>
 </div>
 
