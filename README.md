@@ -22,7 +22,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="cover" />
 </div>
 
-<img align="right" alt="coding" width="300" src="https://github.com/SanjayTamang/SanjayTamang/blob/main/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966.gif"/>
+<img align="right" alt="coding" width="300" src="https://github.com/SanjayTamang/SanjayTamang/blob/main/animation.gif"/>
 
 - 🎓 I’m currently learning **MscIT Computer Network & Cyber Security**
 
