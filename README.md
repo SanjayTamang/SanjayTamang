@@ -19,10 +19,9 @@
   </a>
 </div>
 <div align="center"> 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="cover" />
+<img align="right" alt="coding" width="300" src="https://github.com/SanjayTamang/SanjayTamang/blob/main/animation.gif"/>
 </div>
 
-<img align="right" alt="coding" width="300" src="https://github.com/SanjayTamang/SanjayTamang/blob/main/animation.gif"/>
 
 - 🎓 I’m currently learning **MscIT Computer Network & Cyber Security**
 
