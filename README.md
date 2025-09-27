@@ -19,7 +19,7 @@
   </a>
 </div>
 <div align="center"> 
-<img align="right" alt="coding" width="200" src="https://github.com/SanjayTamang/SanjayTamang/blob/main/animation.gif"/>
+<img align="right" alt="coding" width="280" src="https://github.com/SanjayTamang/SanjayTamang/blob/main/animation.gif"/>
 </div>
 
 
